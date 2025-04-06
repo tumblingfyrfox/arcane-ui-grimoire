@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "themes/PaperMod/README.md",
+                "file": "content/01_html-scrolls/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -163,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 222.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,6 +178,11 @@
   },
   "active": "0454c1c82d9af48b",
   "lastOpenFiles": [
+    "content/02_css-charms/README.md",
+    "content/00_meta/index.md",
+    "content/00_meta/README.md",
+    "content/00_meta/rituals.md",
+    "themes/PaperMod/README.md",
     "README.md",
     "Untitled.md",
     "docs/03_js-potions/page/1/index.html",
@@ -191,14 +196,9 @@
     "docs/02_css-charms/readme/index.html",
     "docs/01_html-scrolls/readme/index.html",
     "content/03_js-potions/README.md",
-    "content/02_css-charms/README.md",
     "content/01_html-scrolls/README.md",
-    "content/00_meta/index.md",
-    "content/00_meta/rituals.md",
-    "content/00_meta/README.md",
     "00_meta/index.md",
     "themes/PaperMod/images/tn.png",
-    "themes/PaperMod/images/screenshot.png",
-    "themes/PaperMod/README.md"
+    "themes/PaperMod/images/screenshot.png"
   ]
 }
