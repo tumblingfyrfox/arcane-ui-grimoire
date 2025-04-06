@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9d3c497f17a344c4",
+        "id": "955a4470d5f3d1ca",
         "type": "tabs",
         "children": [
           {
-            "id": "4829df79c50aa3a0",
+            "id": "0454c1c82d9af48b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "themes/PaperMod/README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3479c8786265add6",
@@ -177,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4829df79c50aa3a0",
+  "active": "0454c1c82d9af48b",
   "lastOpenFiles": [
     "README.md",
     "Untitled.md",

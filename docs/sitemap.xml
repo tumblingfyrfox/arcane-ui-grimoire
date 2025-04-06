@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tumblingfyrfox.github.io/arcane-ui-grimoire/00_meta/</loc>
+    <loc>http://localhost:1313/arcane-ui-grimoire/00_meta/</loc>
   </url><url>
-    <loc>https://tumblingfyrfox.github.io/arcane-ui-grimoire/01_html-scrolls/readme/</loc>
+    <loc>http://localhost:1313/arcane-ui-grimoire/01_html-scrolls/readme/</loc>
   </url><url>
-    <loc>https://tumblingfyrfox.github.io/arcane-ui-grimoire/02_css-charms/readme/</loc>
+    <loc>http://localhost:1313/arcane-ui-grimoire/02_css-charms/readme/</loc>
   </url><url>
-    <loc>https://tumblingfyrfox.github.io/arcane-ui-grimoire/03_js-potions/readme/</loc>
+    <loc>http://localhost:1313/arcane-ui-grimoire/03_js-potions/readme/</loc>
   </url><url>
-    <loc>https://tumblingfyrfox.github.io/arcane-ui-grimoire/01_html-scrolls/</loc>
+    <loc>http://localhost:1313/arcane-ui-grimoire/01_html-scrolls/</loc>
   </url><url>
-    <loc>https://tumblingfyrfox.github.io/arcane-ui-grimoire/02_css-charms/</loc>
+    <loc>http://localhost:1313/arcane-ui-grimoire/02_css-charms/</loc>
   </url><url>
-    <loc>https://tumblingfyrfox.github.io/arcane-ui-grimoire/03_js-potions/</loc>
+    <loc>http://localhost:1313/arcane-ui-grimoire/03_js-potions/</loc>
   </url><url>
-    <loc>https://tumblingfyrfox.github.io/arcane-ui-grimoire/categories/</loc>
+    <loc>http://localhost:1313/arcane-ui-grimoire/categories/</loc>
   </url><url>
-    <loc>https://tumblingfyrfox.github.io/arcane-ui-grimoire/tags/</loc>
+    <loc>http://localhost:1313/arcane-ui-grimoire/tags/</loc>
   </url><url>
-    <loc>https://tumblingfyrfox.github.io/arcane-ui-grimoire/</loc>
+    <loc>http://localhost:1313/arcane-ui-grimoire/</loc>
   </url>
 </urlset>
