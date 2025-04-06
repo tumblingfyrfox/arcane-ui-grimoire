@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_meta/index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           }
         ]
@@ -168,17 +168,24 @@
   },
   "active": "4829df79c50aa3a0",
   "lastOpenFiles": [
-    "themes/PaperMod/theme.toml",
-    "themes/PaperMod/layouts/partials/templates/_funcs/get-page-images.html",
-    "themes/PaperMod/layouts/partials/templates/twitter_cards.html",
-    "themes/PaperMod/layouts/partials/templates/schema_json.html",
-    "themes/PaperMod/layouts/partials/templates/opengraph.html",
-    "themes/PaperMod/layouts/partials/templates/_funcs",
-    "themes/PaperMod/layouts/_default/_markup/render-image.html",
-    "themes/PaperMod/layouts/shortcodes/rtl.html",
-    "themes/PaperMod/layouts/shortcodes/rawhtml.html",
-    "themes/PaperMod/layouts/shortcodes/ltr.html",
-    "themes/PaperMod/layouts/shortcodes/inTextImg.html",
+    "Untitled.md",
+    "docs/03_js-potions/page/1/index.html",
+    "docs/02_css-charms/page/1/index.html",
+    "docs/01_html-scrolls/page/1/index.html",
+    "docs/page/1/index.html",
+    "docs/assets/css/stylesheet.f49d66caae9ea0fd43f21f29e71a8d3e284517ed770f2aa86fa012953ad3c9ef.css",
+    "docs/03_js-potions/readme/index.html",
+    "docs/03_js-potions/page/1",
+    "docs/02_css-charms/page/1",
+    "docs/02_css-charms/readme/index.html",
+    "docs/01_html-scrolls/readme/index.html",
+    "content/03_js-potions/README.md",
+    "content/02_css-charms/README.md",
+    "content/01_html-scrolls/README.md",
+    "content/00_meta/index.md",
+    "content/00_meta/rituals.md",
+    "content/00_meta/README.md",
+    "00_meta/index.md",
     "themes/PaperMod/images/tn.png",
     "themes/PaperMod/images/screenshot.png",
     "themes/PaperMod/README.md"

@@ -1,0 +1,24 @@
+baseURL = "https://tumblingfyrfox.github.io/arcane-ui-grimoire/"
+languageCode = "en-us"
+title = "Tales & Tags: Fyr Fox’s Arcane UI Grimoire — A Tumbling Journey Through UI"
+theme = "PaperMod"
+publishDir = "docs"
+[params]
+  author = "Tumbling Fyr Fox"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+  defaultTheme = "auto"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
