@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "30d45eb3fd027b82",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b7dd2e3f7a16f99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4ed6545216ff92f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1fac1d575cb3f136",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "917cd2a0f44b0937",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "7c8fae60400e5ee5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "ff2842d096393182",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "0995e3fcf108fce0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4cdfa417e4f2299e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9b5bac55a20cab55",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "65096ce84205b88e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "cbbc9bb71008148f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c4ed6545216ff92f",
+  "lastOpenFiles": [
+    "themes/PaperMod/layouts/partials/templates/_funcs/get-page-images.html",
+    "themes/PaperMod/assets/css/extended/blank.css",
+    "themes/PaperMod/assets/css/common/footer.css",
+    "themes/PaperMod/assets/css/common/post-single.css",
+    "themes/PaperMod/assets/css/common/header.css",
+    "themes/PaperMod/assets/css/common/post-entry.css",
+    "themes/PaperMod/assets/css/common/profile-mode.css",
+    "themes/PaperMod/assets/css/common/main.css",
+    "themes/PaperMod/assets/css/common/terms.css",
+    "themes/PaperMod/assets/css/common/archive.css",
+    "themes/PaperMod/assets/css/common/404.css",
+    "themes/PaperMod/images/tn.png",
+    "themes/PaperMod/images/screenshot.png",
+    "themes/PaperMod/README.md",
+    "content/01_html-scrolls/README.md",
+    "content/02_css-charms/README.md",
+    "content/00_meta/rituals.md",
+    "content/00_meta/README.md",
+    "content/03_js-potions/README.md",
+    "content/00_meta/index.md",
+    "README.md"
+  ]
+}
