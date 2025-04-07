@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/00_meta/🧠 Post-Study Brain Dump - Template.md",
+                "file": "content/07_git/🧙‍♀️ Taming the Git Goblins with Fyr Fox’s Wand of Version Control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🧠 Post-Study Brain Dump - Template"
+              "title": "🧙‍♀️ Taming the Git Goblins with Fyr Fox’s Wand of Version Control"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3479c8786265add6",
@@ -178,10 +179,13 @@
   },
   "active": "0454c1c82d9af48b",
   "lastOpenFiles": [
-    "content/00_meta/index.md",
     "content/00_meta/🧠 Post-Study Brain Dump - Template.md",
+    "content/07_git/🧙‍♀️ Taming the Git Goblins with Fyr Fox’s Wand of Version Control.md",
+    "content/07_git",
+    "content/00_meta/index.md",
+    "content/00_meta/🧿 Rituals of the Arcane UI Grimoire.md",
+    "content/00_meta/Untitled",
     "content/00_meta/README.md",
-    "content/00_meta/rituals.md",
     "README.md",
     "content/01_html-scrolls/README.md",
     "content/02_css-charms/README.md",
@@ -195,8 +199,6 @@
     "docs/03_js-potions/readme/index.html",
     "docs/03_js-potions/page/1",
     "docs/02_css-charms/page/1",
-    "docs/02_css-charms/readme/index.html",
-    "docs/01_html-scrolls/readme/index.html",
     "content/03_js-potions/README.md",
     "00_meta/index.md",
     "themes/PaperMod/images/tn.png",
