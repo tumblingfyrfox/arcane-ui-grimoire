@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/00_meta/index.md",
+                "file": "content/00_meta/🧠 Post-Study Brain Dump - Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "🧠 Post-Study Brain Dump - Template"
             }
           }
         ]
@@ -178,12 +178,13 @@
   },
   "active": "0454c1c82d9af48b",
   "lastOpenFiles": [
-    "content/00_meta/README.md",
     "content/00_meta/index.md",
+    "content/00_meta/🧠 Post-Study Brain Dump - Template.md",
+    "content/00_meta/README.md",
+    "content/00_meta/rituals.md",
     "README.md",
     "content/01_html-scrolls/README.md",
     "content/02_css-charms/README.md",
-    "content/00_meta/rituals.md",
     "themes/PaperMod/README.md",
     "Untitled.md",
     "docs/03_js-potions/page/1/index.html",
