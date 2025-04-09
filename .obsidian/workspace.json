@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "955a4470d5f3d1ca",
+        "id": "9a31646143ed6552",
         "type": "tabs",
         "children": [
           {
-            "id": "0454c1c82d9af48b",
+            "id": "651e2a0933f428f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/07_git/🧙‍♀️ Taming the Git Goblins with Fyr Fox’s Wand of Version Control.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "🧙‍♀️ Taming the Git Goblins with Fyr Fox’s Wand of Version Control"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3479c8786265add6",
@@ -177,28 +172,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0454c1c82d9af48b",
+  "active": "651e2a0933f428f7",
   "lastOpenFiles": [
-    "content/00_meta/🧠 Post-Study Brain Dump - Template.md",
+    "docs/images/git-notes",
+    "static/images/git-notes",
+    "docs/07_git/taming-the-git-goblins-with-fyr-foxs-wand-of-version-control/index.html",
+    "docs/07_git/taming-the-git-goblins-with-fyr-foxs-wand-of-version-control",
+    "content/07_git/Taming the Git Goblins with Fyr Fox’s Wand of Version Control.md",
+    "docs/07_git/page/1/index.html",
+    "docs/07_git/️-taming-the-git-goblins-with-fyr-foxs-wand-of-version-control/index.html",
+    "docs/07_git/page/1",
+    "docs/07_git/️-taming-the-git-goblins-with-fyr-foxs-wand-of-version-control",
+    "docs/07_git/page",
+    "docs/07_git/index.xml",
+    "docs/07_git/index.html",
+    "layouts/shortcodes/zinegallery.html.md",
     "content/07_git/🧙‍♀️ Taming the Git Goblins with Fyr Fox’s Wand of Version Control.md",
-    "content/07_git",
+    "content/00_meta/🧠 Post-Study Brain Dump - Template.md",
     "content/00_meta/index.md",
     "content/00_meta/🧿 Rituals of the Arcane UI Grimoire.md",
-    "content/00_meta/Untitled",
     "content/00_meta/README.md",
     "README.md",
     "content/01_html-scrolls/README.md",
     "content/02_css-charms/README.md",
     "themes/PaperMod/README.md",
     "Untitled.md",
-    "docs/03_js-potions/page/1/index.html",
-    "docs/02_css-charms/page/1/index.html",
-    "docs/01_html-scrolls/page/1/index.html",
-    "docs/page/1/index.html",
-    "docs/assets/css/stylesheet.f49d66caae9ea0fd43f21f29e71a8d3e284517ed770f2aa86fa012953ad3c9ef.css",
-    "docs/03_js-potions/readme/index.html",
-    "docs/03_js-potions/page/1",
-    "docs/02_css-charms/page/1",
     "content/03_js-potions/README.md",
     "00_meta/index.md",
     "themes/PaperMod/images/tn.png",

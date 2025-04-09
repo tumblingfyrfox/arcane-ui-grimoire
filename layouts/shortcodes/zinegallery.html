@@ -1,0 +1,16 @@
+<div class="swiper-container">
+    <div class="swiper-wrapper">
+      {{- $folder := .Get "folder" -}}
+      {{- $count := .Get "count" | int -}}
+      {{- range $i, $val := (seq $count) -}}
+        <div class="swiper-slide">
+          <img src="/images/{{ $folder }}/{{ printf "%02d" (add $i 1) }}.jpg" alt="Page {{ add $i 1 }}" />
+        </div>
+      {{- end -}}
+    </div>
+  
+    <div class="swiper-pagination"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+  </div>
+  

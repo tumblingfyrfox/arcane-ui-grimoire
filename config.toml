@@ -9,11 +9,12 @@ publishDir = "docs"
   ShowCodeCopyButtons = true
   ShowPostNavLinks = true
   defaultTheme = "auto"
+  customCSS = ["css/extended/custom.css"]
 
 [menu]
   [[menu.main]]
     name = "Home"
-    url = "/"
+    url = "/07_git/Taming the Git Goblins with Fyr Fox’s Wand of Version Control"
     weight = 1
   [[menu.main]]
     name = "About"

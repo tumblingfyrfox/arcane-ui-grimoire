@@ -12,14 +12,14 @@
       <link>http://localhost:1313/arcane-ui-grimoire/00_meta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/arcane-ui-grimoire/00_meta/</guid>
-      <description></description>
+      <description>&lt;h3 id=&#34;hello-world&#34;&gt;Hello World&lt;/h3&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/arcane-ui-grimoire/01_html-scrolls/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/arcane-ui-grimoire/01_html-scrolls/readme/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;hello&#34;&gt;Hello&lt;/h1&gt;</description>
     </item>
     <item>
       <title></title>
@@ -34,6 +34,36 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/arcane-ui-grimoire/03_js-potions/readme/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Taming Git Goblins: My Chaos-Friendly Git Rituals</title>
+      <link>http://localhost:1313/arcane-ui-grimoire/07_git/taming-the-git-goblins-with-fyr-foxs-wand-of-version-control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/arcane-ui-grimoire/07_git/taming-the-git-goblins-with-fyr-foxs-wand-of-version-control/</guid>
+      <description>&lt;p&gt;🎯 Today’s Goal:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand Git through &lt;strong&gt;Learn Git Branching&lt;/strong&gt; and &lt;strong&gt;Pro Git by Ben Straub and Scott Chacon&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Learn 3 common Git commands deeply&lt;/li&gt;
+&lt;li&gt;Troubleshoot push/pull issues with tokens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;🐾 Mood: Tumbling but determined.&lt;/p&gt;
+&lt;div class=&#34;swiper-container&#34;&gt;
+    &lt;div class=&#34;swiper-wrapper&#34;&gt;&lt;div class=&#34;swiper-slide&#34;&gt;
+          &lt;img src=&#34;http://localhost:1313/arcane-ui-grimoire/images/git-notes/01.jpg&#34; alt=&#34;Page 1&#34; /&gt;
+        &lt;/div&gt;&lt;div class=&#34;swiper-slide&#34;&gt;
+          &lt;img src=&#34;http://localhost:1313/arcane-ui-grimoire/images/git-notes/02.jpg&#34; alt=&#34;Page 2&#34; /&gt;
+        &lt;/div&gt;&lt;div class=&#34;swiper-slide&#34;&gt;
+          &lt;img src=&#34;http://localhost:1313/arcane-ui-grimoire/images/git-notes/03.jpg&#34; alt=&#34;Page 3&#34; /&gt;
+        &lt;/div&gt;&lt;div class=&#34;swiper-slide&#34;&gt;
+          &lt;img src=&#34;http://localhost:1313/arcane-ui-grimoire/images/git-notes/04.jpg&#34; alt=&#34;Page 4&#34; /&gt;
+        &lt;/div&gt;&lt;div class=&#34;swiper-slide&#34;&gt;
+          &lt;img src=&#34;http://localhost:1313/arcane-ui-grimoire/images/git-notes/05.jpg&#34; alt=&#34;Page 5&#34; /&gt;
+        &lt;/div&gt;&lt;/div&gt;
+  
+    &lt;div class=&#34;swiper-pagination&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;swiper-button-prev&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;swiper-button-next&#34;&gt;&lt;/div&gt;
+  &lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

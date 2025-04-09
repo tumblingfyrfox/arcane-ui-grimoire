@@ -1,0 +1,16 @@
+.swiper-container {
+    width: 100%;
+    max-width: 800px;
+    margin: 2rem auto;
+  }
+  .swiper-slide img {
+    width: 100%;
+    height: auto;
+    border-radius: 16px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease;
+  }
+  .swiper-slide img:hover {
+    transform: scale(1.02);
+  }
+  
